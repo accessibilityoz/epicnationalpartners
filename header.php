@@ -46,9 +46,9 @@
               <div class="col-sm-7">
                 <a class="tools__link tools__skip" href="#content">Skip<span class="hidden-xs"> to main content</span></a>
                 <ul class="tools__social-media">
-                  <li><a href="#"><span class="tools__facebook"><span class="hidden">Facebook</span></span></a></li>
-                  <li><a href="#"><span class="tools__twitter"><span class="hidden">Twitter</span></span></a></li>
-                  <li><a href="#"><span class="tools__instagram"><span class="hidden">Instagram</span></span></a></li>
+                  <li><a href="https://www.facebook.com/EPICnationalpartners/"><span class="tools__facebook"><span class="hidden">Facebook</span></span></a></li>
+                  <li><a href="https://twitter.com/EPICadvocates"><span class="tools__twitter"><span class="hidden">Twitter</span></span></a></li>
+                  <li><a href="http://instagram.com/epicnationalpartners"><span class="tools__instagram"><span class="hidden">Instagram</span></span></a></li>
                   <li><a href="#"><span class="tools__youtube"><span class="hidden">YouTube</span></span></a></li>
                 </ul>
               </div>
