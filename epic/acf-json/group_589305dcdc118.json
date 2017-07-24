@@ -1,0 +1,185 @@
+{
+    "key": "group_589305dcdc118",
+    "title": "Partner fields",
+    "fields": [
+        {
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "key": "field_589305e2c6a05",
+            "label": "Partner Phone",
+            "name": "dmc_partner_phone",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "default_value": "",
+            "placeholder": "http:\/\/",
+            "key": "field_589305fb680c5",
+            "label": "Partner Web Address",
+            "name": "dmc_partner_web_address",
+            "type": "url",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "key": "field_5893062f3c29f",
+            "label": "Partner Email Address",
+            "name": "dmc_partner_email_address",
+            "type": "email",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "default_value": "",
+            "new_lines": "",
+            "maxlength": "",
+            "placeholder": "",
+            "rows": 3,
+            "key": "field_589309fc4c582",
+            "label": "Partner Address",
+            "name": "dmc_partner_address",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "@",
+            "append": "",
+            "key": "field_58a3e0bfe25ff",
+            "label": "Partner Twitter Username",
+            "name": "dmc_partner_twitter_username",
+            "type": "text",
+            "instructions": "Your twitter handle, without the @ symbol.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "default_value": "",
+            "placeholder": "",
+            "key": "field_58a67e4f44c09",
+            "label": "Partner Facebook URL",
+            "name": "dmc_partner_facebook_url",
+            "type": "url",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "default_value": "",
+            "placeholder": "",
+            "key": "field_58a67e26a6b15",
+            "label": "Partner LinkedIn URL",
+            "name": "dmc_partner_linkedin_url",
+            "type": "url",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "https:\/\/www.instagram.com\/",
+            "append": "",
+            "key": "field_58a6845fd5959",
+            "label": "Partner Instagram Username",
+            "name": "dmc_partner_instagram_username",
+            "type": "text",
+            "instructions": "Shows a link only to your Instagram feed. Use the 'Partner Instagram User ID' field to embed your Instagram feed in this page.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "key": "field_58a3e0cee51f7",
+            "label": "Partner Instagram User ID",
+            "name": "dmc_partner_instagram_userid",
+            "type": "text",
+            "instructions": "Shows embedded Instagram feed. Get your Instagram user ID here https:\/\/smashballoon.com\/instagram-feed\/find-instagram-user-id\/",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            }
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "partner"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "acf_after_title",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1487308093
+}
