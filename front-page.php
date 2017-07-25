@@ -3,7 +3,7 @@
 <!-- Banner -->
 <div class="container-fluid">
     <div class="banner">
-      <?php wooslider(); ?>
+      <?php wooslider( array('slider_type'=>'slides','slide_page'=>'home-page')); ?>
     </div>
 </div>
 
