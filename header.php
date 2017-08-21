@@ -49,7 +49,7 @@
                   <li><a href="https://www.facebook.com/EPICnationalpartners/"><span class="tools__facebook"><span class="hidden">Facebook</span></span></a></li>
                   <li><a href="https://twitter.com/EPICadvocates"><span class="tools__twitter"><span class="hidden">Twitter</span></span></a></li>
                   <li><a href="http://instagram.com/epicnationalpartners"><span class="tools__instagram"><span class="hidden">Instagram</span></span></a></li>
-                  <li><a href="#"><span class="tools__youtube"><span class="hidden">YouTube</span></span></a></li>
+                  <li><a href="https://www.youtube.com/channel/UC_6PJBVor-r8ADlx8TuYIrg"><span class="tools__youtube"><span class="hidden">YouTube</span></span></a></li>
                 </ul>
               </div>
               <div class="col-sm-4 col-sm-offset-1">
